@@ -1,5 +1,5 @@
 # zhiyuan-bug-blog
-record my bug I've seem
+record my bug I've seen
 
 目录
 
